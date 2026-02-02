@@ -1,6 +1,6 @@
 # NGA Annual Dinner Ticketing System
 
-A simple, secure, and user-friendly **online ticketing platform** for the **NGA Annual Dinner** event organized by the NGO community in Uganda.
+A simple, secure, and user-friendly **online ticketing platform** for the **NGO-NGA Annual Dinner** event organized by the NGO community in Uganda.
 
 Users can:
 - Choose ticket types (Single, Couple, Alumni, Table for 6)
